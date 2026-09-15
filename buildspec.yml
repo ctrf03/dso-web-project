@@ -23,5 +23,5 @@ phases:
 
 artifacts:
   files:
-    - target/nextwork-web-project.war
+    - target/dso-proj.war
 
